@@ -55,3 +55,21 @@ C 추천강의 : https://www.youtube.com/watch?v=I5jmg6uUTbQ&list=PLXvgR_grOs1AQ
 OS 추천강의 : https://www.youtube.com/watch?v=mcS4n34wBcY&list=PLZHI9CmwUWQoljS34piBQhqrPp4cQfnsz <br>
 통신 추천강의 : http://www.kocw.or.kr/home/search/kemView.do?kemId=1260383 <br>
 DB 추천자료 : http://www.gurubee.net/roadmap/oracle <br>
+
+
+
+## 4. 스프링은 무엇인가?
+
+스프링은 간단하게 말하면 자바의 프레임워크지만 확 와닿는 설명은 아닐 것이다. <br>
+그럼 프레임워크는 무엇일까?<br>
+프레임워크는 인터페이스의 집합이라고 정의할 수 있다, 그러면 인터페이스는 무엇인가? <br>
+이런식으로 들어가면 끝도없이 들어가야된다, 그래서 스프링 = 프레임워크는 좋은 설명이라고 생각하지않는다 <br>
+굳이 스프링을 간단하게 말해보면 자바로 쉽게 백앤드프로그래밍을 할 수 있도록 도움이될만한 요소들을 모아놓은 오픈소스 프로젝트다.<br>
+
+스프링에는 Legacy 형태가 있고 SpringBoot로 나뉘는데 현업에서는 아직도 Legacy형태로 많이 사용하고 있으니 둘다 사용법을 익히는 편을 추천한다.<br>
+스프링은 접근하기에따라서 매우 쉬우나 깊에 파고들면 들어갈수록 매우 어렵다.<br>
+자신의 수준을 잘 파악해서 적당히 파고들어가는것이 스프링 공부의 핵심이다.<br>
+처음부터 토비의 스프링책을 각잡고 파야할 이유는 없다, 가볍게 스프링부트부터 훓고 시작하는것도 나쁘지 않은 방법이다 <br>
+
+스프링이 추구하는 방향을 잘 설명한 영상 : https://www.youtube.com/watch?v=ZdpZlqumymM <br>
+잘 설명한 스프링 학습로드맵 : https://www.youtube.com/watch?v=97lYN9YW03Q <br>
