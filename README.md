@@ -53,3 +53,5 @@ C 추천강의 : https://www.youtube.com/watch?v=I5jmg6uUTbQ&list=PLXvgR_grOs1AQ
 또 자료구조는 전통적인 모델도 중요하지만 자신이 어떤 업무를 하는가에 따라 DB, NoSql, MQ 부터 하둡과 같은 빅데이터를 위한 데이터저장법을 학습해 나아가야 보다 자신이 할수있는 영역을 넓힐수 있다는건 당연한 이야기다.<br>
 
 OS 추천강의 : https://www.youtube.com/watch?v=mcS4n34wBcY&list=PLZHI9CmwUWQoljS34piBQhqrPp4cQfnsz
+통신 추천강의 : http://www.kocw.or.kr/home/search/kemView.do?kemId=1260383
+DB 추천자료 : http://www.gurubee.net/roadmap/oracle
